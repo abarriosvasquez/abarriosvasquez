@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abarriosvasquez
+- 👋 Hi, I’m Auner Barrios Vasquez, I'm a 2nd year at the Univeristy of California, Merced.
 - 👀 I’m interested in working out, coding in python, and hanging out with friends
 - 🌱 I’m currently learning python and discrete mathematics 
 - 💞️ I’m looking to collaborate on projects that would bolster both our resumes
