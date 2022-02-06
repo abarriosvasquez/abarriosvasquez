@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Auner Barrios Vasquez, I'm a 2nd year at the Univeristy of California, Merced.
-- 👀 I’m interested in working out, coding in python, and hanging out with friends
-- 🌱 I’m currently learning python and discrete mathematics 
-- 💞️ I’m looking to collaborate on projects that would bolster both our resumes
-- 📫 How to reach me: abarriosvasquez@ucmerced.edu
+# Project 1 - *Auner's Website*
 
-<!---
-abarriosvasquez/abarriosvasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**A First Attempt Website** is an personal website that allows to build a foundation to display growth in HTML and CSS, while practing to develop more 
+
+Submitted by: **Auner Barrios Vasquez**
+
+Time spent: **12+** hours spent in total
+
+## Notes
+
+Some obstacles needing to overcome was being able to apply such amount of detail that I later needed to change due to complications with the rest of the webiste, yet overally the biggest obstacle ws just findind time to work on it.
+
+## FINAL NOTE
+
+THIS IS NOT FINISHED THIS IS JUST A PROTYPE
