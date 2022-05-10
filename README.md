@@ -6,7 +6,7 @@ Aspiring Software Engineer
 
 I'm currently a student at UC Merced studying computer science and engineering. I have been coding with programming languages such as Python, HTML & CSS, and Java.
 
-* 🌍  I'm based in Bay Area, California
+* 🌍  I'm based in Bay Area, CA
 * ✉️  You can contact me at [aunerbarrios86@gmail.com](mailto:aunerbarrios86@gmail.com)
 * 🧠  I'm learning Javascript framework
 * 🤝  I'm open to collaborating on a Simon Says game that is created with java
