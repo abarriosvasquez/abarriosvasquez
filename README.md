@@ -4,12 +4,12 @@ Hi 👋 My name is Auner Barrios Vasquez
 Aspiring Software Engineer
 --------------------------
 
-I'm currently a student at College of San Mateo studying Computer Science Applications and Development. I have been coding with programming languages such as Python, HTML & CSS, javascript, and java.
+I'm currently a student at College of San Mateo studying Computer Science Applications and Development. I have been coding with programming languages such as Python, HTML & CSS, javascript, swift, and java.
 
-* 🌍  I'm based in Bay Area, CA
+* 🌍  I'm based in the San Francisco Bay Area, CA
 * ✉️  You can contact me at [aunerbarrios86@gmail.com](mailto:aunerbarrios86@gmail.com)
-* 🧠  I'm learning Javascript framework
-* 🤝  I'm open to collaborating on a Simon Says game that is created with java
+* 🧠  I'm learning Java and C++ in order to apply for schools such as UC Berkely, UC Davis, UC Santa Barbara 
+* 🤝  I'm open to collaborating on a Simon Says game that is created with java
 
 ### Skills 
 
