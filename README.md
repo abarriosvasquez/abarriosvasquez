@@ -11,7 +11,7 @@ I'm currently a student at College of San Mateo studying Computer Science Applic
 * 🧠  I'm learning Javascript framework
 * 🤝  I'm open to collaborating on a Simon Says game that is created with java
 
-### Skills
+### Skills 
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
